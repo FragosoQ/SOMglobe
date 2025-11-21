@@ -120,5 +120,3 @@ function getCountries(object, countries) {
     return r;
   }, {})
 }
-
-
